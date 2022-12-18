@@ -19,7 +19,9 @@ Second Parameter - array arr of size `n`
 Return the number.
 
 ## Example 1:
-"1
+
+![unknown](https://user-images.githubusercontent.com/51156057/208308628-e89a9c43-7c9c-4db2-97d3-9246f24a6d42.png)
+
 ```
 Input:
     9
