@@ -1,16 +1,16 @@
-# Missing Number
+## Missing Number
 
 Given an array `arr` containing `n` distinct numbers in the range `[0, n]`, return the only number in the range that is missing from the array.
 
-# Input Format
+## Input Format
 First parameter - number `n`
 
 Second Parameter - array of integers arr of size n
 
-# Output Format
+## Output Format
 Return the number
 
-# Example 1
+## Example 1
 ```
 Input: 
    3
@@ -20,7 +20,7 @@ Output:
 Explanation: 
     n = 3 since there are 3 numbers, so all numbers are in the range [0,3]. 2 is the missing number in the range since it does not appear in arr.
 ```
-# Example 2
+## Example 2
 ```
 Input: 
    2
